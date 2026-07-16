@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: PumpstockTests
-      - path: Pumpstock.storekit
     dependencies:
       - target: Pumpstock
     settings:
